@@ -7,3 +7,4 @@ yay -S scrot
 ```
 yay -S brillo
 ```
+## File localtion is .local/bin
