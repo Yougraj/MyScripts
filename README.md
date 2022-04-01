@@ -1,9 +1,9 @@
-# For Screen Short tool
+# Screenshot tool
 ```
 yay -S scrot
 ```
 
-# And the brightness tool
+# Brightness tool
 ```
 yay -S brillo
 ```
