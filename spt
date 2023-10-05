@@ -9,7 +9,7 @@ from tqdm import tqdm
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import urllib.request
-import argparse  # Import the argparse library
+import argparse
 
 
 # Checking if a package is installed or not
