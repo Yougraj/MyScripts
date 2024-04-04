@@ -12,6 +12,7 @@ yay -S brillo
 
 # spotify-tool
 
+- rofi is required
 ```
 pip install importlib tqdm spotipy urllib3 argparse
 ```
